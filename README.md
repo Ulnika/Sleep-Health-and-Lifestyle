@@ -1,6 +1,6 @@
 # Sleep Health and Lifestyle Analysis
 
-This two-part data analysis project investigates how lifestyle factors affect sleep health across gender and occupation groups. The project was developed as part of the **DataTalent program from M2M Tech** using Python, pandas, and Bokeh for interactive visualization.
+This two-part data analysis project examines how lifestyle factors impact sleep health across different gender and occupational groups. The project was developed as part of the **DataTalent program from M2M Tech** using Python, pandas, and Bokeh for interactive visualization.
 
 ## Project Structure
 
@@ -31,7 +31,7 @@ This two-part data analysis project investigates how lifestyle factors affect sl
 
 - Female participants tend to report **higher sleep quality** and **lower stress levels** across most occupations.
 - **Occupational context** influences physical activity and stress.
-- Heart rate and BMI show variation by gender and lifestyle but may be influenced by other unmeasured variables.
+- Heart rate and BMI show variation by gender and lifestyle, but may be influenced by other unmeasured variables.
 
 ## Files
 
